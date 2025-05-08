@@ -15,7 +15,7 @@ This Python script checks whether a given number is **even** or **odd**.
 Run the script using Python:  
 ```bash
 python task1.py
-
+```
 ## **Expected Output**
 
 Enter a number: 12
@@ -40,7 +40,10 @@ This Python script calculates the sum of all integers from 1 to 50.
 Simply run the script with Python:
 ```bash
 python task2.py
+```
 
 ## **Expected Output**
 
+```bash
 The sum of numbers from 1 to 50 is: 1275
+```
