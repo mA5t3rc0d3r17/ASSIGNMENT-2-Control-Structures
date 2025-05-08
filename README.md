@@ -16,31 +16,31 @@ Run the script using Python:
 ```bash
 python task1.py
 
-**## **Expected Output**
-**
+## **Expected Output**
+
 Enter a number: 12
 12 is an even number
 
 Enter a number: 7  
 7 is an odd number
 
-**## **Sum of Numbers from 1 to 50**
-**
+## **Sum of Numbers from 1 to 50**
+
 This Python script calculates the sum of all integers from 1 to 50.
 
-**## **How It Works**
-**
+## **How It Works**
+
 1. Initializes a variable `sum` to 0 to store the cumulative total
 2. Uses a `for` loop to iterate through numbers 1 to 50 (inclusive)
 3. In each iteration, adds the current number to the `sum` variable
 4. After the loop completes, prints the final sum
 
-**## **Usage**
-**
+## **Usage**
+
 Simply run the script with Python:
 ```bash
 python task2.py
 
-**## **Expected Output**
-**
+## **Expected Output**
+
 The sum of numbers from 1 to 50 is: 1275
