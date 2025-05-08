@@ -17,14 +17,15 @@ Run the script using Python:
 python task1.py
 ```
 ## **Expected Output**
-
+```bash
 Enter a number: 12
 12 is an even number
 
 Enter a number: 7  
 7 is an odd number
+```
 
-## **Sum of Numbers from 1 to 50**
+# **Sum of Numbers from 1 to 50**
 
 This Python script calculates the sum of all integers from 1 to 50.
 
@@ -36,8 +37,8 @@ This Python script calculates the sum of all integers from 1 to 50.
 4. After the loop completes, prints the final sum
 
 ## **Usage**
-
 Simply run the script with Python:
+
 ```bash
 python task2.py
 ```
